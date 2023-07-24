@@ -5245,10 +5245,3 @@ Plant Code,Plant Name,State,Sector Group,Sector Code,Prime Mover,Fuel Code,Aggre
 99999,Estimate for Missing Data,WI,ELECTRIC POWER,1,IC,DFO,PET,0,166,415,0,415,71,Barrels,34,31,RFC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
 99999,Estimate for Missing Data,WI,ELECTRIC POWER,1,ST,NG,GAS,"352,606,787","1,721,457","7,366,657","3,063,018","4,303,639","7,279,121",Mcf,"429,647","389,770",RFC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
 99999,Estimate for Missing Data,WI,INDUSTRIAL,6,IC,DFO,PET,"10,000",0,78,78,0,14,Barrels,6,6,RFC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
-"Notes:
-The emissions data presented include total emissions from both electricity generation and the production of useful thermal output.
-See Electric Power Annual, Appendix A, Technical Notes (http://www.eia.gov/electricity/annual/), for a description of the sources and methodology used to develop the emissions estimates.
-
-Sources:
-U.S. Energy Information Administration, Form EIA-923, Power Plant Operations Report; U.S. Energy Information Administration, Form EIA-860, 'Annual Electric Generator Report'; and Calculations made by the Office of Electricity, Renewables, and Uranium Statistics, U.S. Energy Information Administration.",,,,,,,,,,,,,,,,,,,,
-EIA Balancing Authority Regions are documented here: http://www.eia.gov/beta/realtime_grid/,,,,,,,,,,,,,,,,,,,,
